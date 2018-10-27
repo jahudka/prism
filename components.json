@@ -489,6 +489,10 @@
 			"title": "Nix",
 			"owner": "Golmote"
 		},
+		"neon": {
+			"title": "NEON",
+			"owner": "jahudka"
+		},
 		"nsis": {
 			"title": "NSIS",
 			"owner": "idleberg"
